@@ -9,3 +9,7 @@ By placing only the files that relate to a single logical change at the same tim
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 One would use them when trying to test features or split the app into different versions (say for local markets). Branches would make it easy to test or implement features on a separate logical way then merge them together if meaningful.
+
+How do the diagrams help you visualize the branch structure?
+
+They show the logical succession and relations of commits. It's easy to figure out what commit can be reached from what other commit and which commits are unreachable.
