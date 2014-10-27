@@ -5,3 +5,7 @@ System files are created to prepare the folder to be synchronised and versions. 
 How can you use the staging area to make sure you have one commit per logical change?
 
 By placing only the files that relate to a single logical change at the same time in the staging area, one makes sure they are bundled and related to each other to any user checking the versions.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+One would use them when trying to test features or split the app into different versions (say for local markets). Branches would make it easy to test or implement features on a separate logical way then merge them together if meaningful.
