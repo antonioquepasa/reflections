@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-System files are created to prepare the folder to be synchronised and versions. If you don't initialize, well... there is no versioning happening.
+System files are created to prepare the folder to be synchronised and versions. If you don't initialize, well... there is no versioning happening. So, you need to initialize a repository in order to "prepare the nest for the egg".
 
 How can you use the staging area to make sure you have one commit per logical change?
 
