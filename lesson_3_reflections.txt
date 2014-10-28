@@ -23,3 +23,7 @@ This way, one can work even if offline and revert to it without needing a connex
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use a system such as Dropbox. Synching would be automatic, but overwriting would happen and there would be no structured version control. Also, track changes would be harder and communication would not be as fluent.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+This makes experimenting less risky or working on different features easier. Working on the maste branch, on the other hand, makes it much easier to sync with other contributors.
