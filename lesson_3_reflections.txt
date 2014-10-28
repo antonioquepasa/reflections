@@ -19,3 +19,7 @@ Branches are just different versions of the same repository, most of the time to
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This way, one can work even if offline and revert to it without needing a connexion, should the necessity arise.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use a system such as Dropbox. Synching would be automatic, but overwriting would happen and there would be no structured version control. Also, track changes would be harder and communication would not be as fluent.
