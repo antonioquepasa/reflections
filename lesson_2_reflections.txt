@@ -13,3 +13,7 @@ One would use them when trying to test features or split the app into different 
 How do the diagrams help you visualize the branch structure?
 
 They show the logical succession and relations of commits. It's easy to figure out what commit can be reached from what other commit and which commits are unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Changes made to the various branches are merged and the app is consequently including all these changes.
