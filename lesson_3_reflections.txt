@@ -7,3 +7,11 @@ When collaborating with other users on a project, synching the project code remo
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I'm not necessarily interested in all changes made by other contributors to the project.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are copies of repositories made directly on Github. They allow changes to be made without need to have permission from the owner of the initial repository. It also connects both repos.
+
+Clones are copies of repositories, either local or on Github, that don't adverstise any connexion with the initial repo.
+
+Branches are just different versions of the same repository, most of the time to be eventually merged into the master branch.
